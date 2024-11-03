@@ -5,7 +5,7 @@ Welcome to the `Terry Magnus` repository!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/michael-uyanna/)
 [![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-lightgrey.svg)](https://github.com/Terry-Magnus)
 
-This repository showcases the work and projects of [Uchechukwu Cos-Ibe](https://www.linkedin.com/in/michael-uyanna/) in the field of Web Development, Frontend Engineering, and more. Here you'll find a collection of skills, professional experience, and projects that demonstrate my expertise and capabilities.
+This repository showcases the work and projects of [Michael Uyanna](https://www.linkedin.com/in/michael-uyanna/) in the field of Web Development, Frontend Engineering, and more. Here you'll find a collection of skills, professional experience, and projects that demonstrate my expertise and capabilities.
 
 ## Table of Contents
 
