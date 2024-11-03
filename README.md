@@ -62,6 +62,6 @@ experience.
 
 ## Contact
 
-- LinkedIn: [Uchechukwu Cos-Ibe](https://www.linkedin.com/in/michael-uyanna/)
+- LinkedIn: [Michael Uyanna](https://www.linkedin.com/in/michael-uyanna/)
 - Portfolio: [GitHub Portfolio](https://github.com/Terry-Magnus)
 - Website: [Michael Uyanna](https://terry-magnus.netlify.app)
