@@ -57,7 +57,7 @@ experience.
 
 ## Certifications
 
-[![Responsive Web Design](https://www.freecodecamp.org/certification/MichaelUyanna/responsive-web-design)
+[[Responsive Web Design](https://www.freecodecamp.org/certification/MichaelUyanna/responsive-web-design)
 
 
 ## Contact
