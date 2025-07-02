@@ -22,35 +22,6 @@ This repository showcases the work and projects of [Michael Uyanna](https://www.
 - Content Management Systems: WordPress (Theme Customization, Plugin Integration)
 - Tools & Libraries: Node.js, Jest, REST APIs, Webpack, Git
 
-
-## Professional Experience
-
-### Michigan Mobility and Logistics, Frontend Developer (February 2024 – September 2024)
-
-- Developed and maintained user interfaces using React and Redux for dynamic and responsive web
-applications.
-- Implemented real-time vehicle tracking and dispatch features utilizing Google Maps API, enhancing
-logistics efficiency.
-- Integrated Stripe for secure and seamless payment processing, improving the e-commerce experience.
-- Collaborated with backend teams to integrate RESTful API services, ensuring robust data flow and
-functionality.
-- Enabled real-time communication and collaboration through WebRTC, facilitating instant connectivity.
-- Contributed to the development of customer-focused, MaaS (Mobility-as-a-Service) technology
-solutions for B2B and B2C clients.
-
-### Patlextechnologies, Frontend Developer (October 2023 – May 2024)
-
-- Designed and implemented an email marketing SaaS product leveraging React, Redux, Chart.js, and
-text editor libraries.
-- Built AI features to generate engaging and actionable email content tailored to target audiences.
-- Developed interactive dashboards using Chart.js to visualize email performance metrics and user
-engagement.
-- Collaborated with cross-functional teams to integrate AI functionalities for personalized email marketing
-strategies.
-- Optimized application performance for fast load times and smooth user interactions, enhancing user
-experience.
-- Conducted extensive testing and debugging to ensure a reliable and user-friendly product.
-
 ## Education
 
 - Bachelor of Engineering in Mechanical Engineering, Federal University of Technology Owerri (September 2017 – December 2022).
