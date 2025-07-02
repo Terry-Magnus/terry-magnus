@@ -29,7 +29,7 @@ This repository showcases the work and projects of [Michael Uyanna](https://www.
 ## Certifications
 
 [Responsive Web Design](https://www.freecodecamp.org/certification/MichaelUyanna/responsive-web-design)
-
+[Frontend Development Libraries](https://freecodecamp.org/certification/MichaelUyanna/front-end-development-libraries)
 
 ## Contact
 
