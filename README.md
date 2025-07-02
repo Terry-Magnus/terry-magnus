@@ -10,7 +10,6 @@ This repository showcases the work and projects of [Michael Uyanna](https://www.
 ## Table of Contents
 
 - [Skills](#skills)
-- [Professional Experience](#professional-experience)
 - [Education](#education)
 - [Certificates](#certifications)
 - [Contact](#contact)
